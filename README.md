@@ -1,2 +1,2 @@
-20213079		Jeong SuHyeon
+Jeong SuHyeon:20213079
 kookmin univ. SW dept.
